@@ -8,7 +8,7 @@ Just like the official one, but for selfhosted controllers too :+1:
 
 /node
 
-- [ ] GET Node Info
+- [x] GET Node Info
 
 /node/***
 
