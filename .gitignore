@@ -17,3 +17,6 @@ goapi
 
 # deps
 pkg
+
+# VSCode
+.vscode
